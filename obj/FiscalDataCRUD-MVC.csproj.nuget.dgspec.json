@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {}
+    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {
+    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
         "projectName": "FiscalDataCRUD-MVC",
-        "projectPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
