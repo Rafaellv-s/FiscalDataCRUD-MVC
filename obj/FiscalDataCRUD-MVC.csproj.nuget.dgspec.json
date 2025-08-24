@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {}
+    "c:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {
+    "c:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
+        "projectUniqueName": "c:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
         "projectName": "FiscalDataCRUD-MVC",
-        "projectPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
+        "projectPath": "c:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\FiscalDataCRUD-MVC.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\obj\\",
+        "outputPath": "c:\\Users\\Rafael\\Desktop\\Portfolio\\FiscalDataCRUD-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[9.0.8, )"
             },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.8, )"
@@ -57,6 +61,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

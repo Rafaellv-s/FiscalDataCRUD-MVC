@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6164312dec4f90d5b844b2654d3fc3200fad30da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08ce1af548b9cdabb7ce6b21d5b53d5be8f05ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
