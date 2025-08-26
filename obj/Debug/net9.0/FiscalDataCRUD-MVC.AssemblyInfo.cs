@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08ce1af548b9cdabb7ce6b21d5b53d5be8f05ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfe0daf0966ec2cec44cd7313e98921d8ae5f20f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiscalDataCRUD-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
